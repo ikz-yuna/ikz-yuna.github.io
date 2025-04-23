@@ -8,8 +8,8 @@ document.write('' +
     '<link rel="stylesheet" href="source/css/mystyle.css">\n' +
     '<!--\n' +
     'Hi, It\'s TuHome. This is a good homepage theme.\n' +
-    'Github: https://github.com/ye-tutu/TuHome\n' +
-    'Gitee: https://gitee.com/ye-tutu/TuHome\n' +
+    'Github: https://github.com/ye-YunaHome\n' +
+    'Gitee: https://gitee.com/ye-YUnaHome\n' +
     '-->' +
     '');
 
